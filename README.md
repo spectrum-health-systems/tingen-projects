@@ -29,24 +29,27 @@ The <a href="https://github.com/spectrum-health-systems/tingen-web-service"> Tin
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/logos/tngnopto-dark-800x125.png">
-    <source media="(prefers-color-scheme: light)" srcset="/logos/tngnopto-light-800x125.png">
-    <img alt="Fallback image description" src="/logos/tngnopto-light-800x125.png">
-  </picture>
+  <a href="https://github.com/spectrum-health-systems/outpost31">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/logos/tngnopto-dark-800x125.png">
+        <source media="(prefers-color-scheme: light)" srcset="/logos/tngnopto-light-800x125.png">
+        <img alt="Fallback image description" src="/logos/tngnopto-light-800x125.png">
+    </picture>
+ </a>
 
 </div>
 
 <a href="https://github.com/spectrum-health-systems/outpost31"> Outpost31</a> is a class library that provides the back-end functionality for the Tingen Web Service, and does most of the heavy-lifting.
 
-<br/>
-
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/logos/tngndocs-dark-800x125.png">
-    <source media="(prefers-color-scheme: light)" srcset="/logos/tngndocs-light-800x125.png">
-    <img alt="Fallback image description" src="/logos/tngndocs-light-800x125.png">
-  </picture>
-
+  <a href="https://github.com/spectrum-health-systems/tingen-documentation">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/logos/tngndocs-dark-800x125.png">
+        <source media="(prefers-color-scheme: light)" srcset="/logos/tngndocs-light-800x125.png">
+        <img alt="Fallback image description" src="/logos/tngndocs-light-800x125.png">
+    </picture>
+  </a>
 </div>
+
+<a href="https://github.com/spectrum-health-systems/outpost31"> Tingen Documentation</a> contains API documentation, development guidelines, and manuals.
