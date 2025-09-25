@@ -11,11 +11,15 @@
   <br/>
   <br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/logos/tngnwsvc-dark-800x125.png">
-    <source media="(prefers-color-scheme: light)" srcset="/logos/tngnwsvc-light-800x125.png">
-    <img alt="Fallback image description" src="/logos/tngnwsvc-light-800x125.png">
-  </picture>
+  <a href="https://github.com/spectrum-health-systems/tingen-web-service">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="/logos/tngnwsvc-dark-800x125.png">
+        <source media="(prefers-color-scheme: light)" srcset="/logos/tngnwsvc-light-800x125.png">
+        <img alt="Fallback image description" src="/logos/tngnwsvc-light-800x125.png">
+    </picture>
+  </a>
+
+  The Tingen Web Service is one such custom web service which includes various tools and utilities for Avatar™ that aren't included in the official release, and provides a solid foundation for building additional functionality quickly and efficiently.
 
   <br/>
   <br/>
