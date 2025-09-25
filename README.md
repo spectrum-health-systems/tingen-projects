@@ -27,8 +27,6 @@
 
 The <a href="https://github.com/spectrum-health-systems/tingen-web-service"> Tingen Web Service</a> is a custom web service for Netsmart's Avatar™ EHR, which includes various tools and utilities that aren't included in the official release, and provides a solid foundation for building additional functionality quickly and efficiently.
 
-<br/>
-
 <div align="center">
 
   <picture>
