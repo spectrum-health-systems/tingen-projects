@@ -6,10 +6,14 @@
     <img alt="Fallback image description" src="/logos/tngnproj-light-800x125.png">
   </picture>
 
-  <br/>
-  <br/>
-  <br/>
-  <br/>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div align="center">
 
   <a href="https://github.com/spectrum-health-systems/tingen-web-service">
     <picture>
@@ -19,10 +23,14 @@
     </picture>
   </a>
 
-  The Tingen Web Service is one such custom web service which includes various tools and utilities for Avatar™ that aren't included in the official release, and provides a solid foundation for building additional functionality quickly and efficiently.
+</div>
 
-  <br/>
-  <br/>
+The Tingen Web Service is a custom web service for Netsmart's Avatar™ EHR, which includes various tools and utilities that aren't included in the official release, and provides a solid foundation for building additional functionality quickly and efficiently.
+
+<br/>
+<br/>
+
+<div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/logos/tngnopto-dark-800x125.png">
@@ -30,8 +38,12 @@
     <img alt="Fallback image description" src="/logos/tngnopto-light-800x125.png">
   </picture>
 
-  <br/>
-  <br/>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/logos/tngndocs-dark-800x125.png">
