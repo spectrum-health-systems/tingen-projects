@@ -57,4 +57,4 @@ The <a href="https://github.com/spectrum-health-systems/tingen-web-service"> Tin
   </a>
 </div>
 
-<a href="https://github.com/spectrum-health-systems/outpost31"> Tingen Documentation</a> contains API documentation, development guidelines, manuals, and more.
+<a href="https://github.com/spectrum-health-systems/tingen-documentation"> Tingen Documentation</a> contains API documentation, development guidelines, manuals, and more.
