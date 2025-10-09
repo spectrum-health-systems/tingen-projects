@@ -8,10 +8,7 @@
 
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
+**Tingen** is a set of interoperable projects designed to work with Netsmart's [Avatar EHR](https://www.ntst.com/offerings/myavatar).
 
 <div align="center">
 
