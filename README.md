@@ -10,7 +10,7 @@
 
 **Tingen** is a set of interoperable projects designed to work with Netsmart's [Avatar EHR](https://www.ntst.com/offerings/myavatar).
 
-***
+Current projects include:
 
 <div align="center">
 
@@ -37,6 +37,8 @@ The <a href="https://github.com/spectrum-health-systems/tingen-web-service"> Tin
  </a>
 
 </div>
+
+<br/>
 
 <a href="https://github.com/spectrum-health-systems/outpost31"> Outpost31</a> is a class library that provides the back-end functionality for the Tingen Web Service, and does most of the heavy-lifting.
 
