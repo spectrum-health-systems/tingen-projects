@@ -1,7 +1,5 @@
 <!-- u251009 -->
 
-***
-
 <div align="center">
 
   <picture>
