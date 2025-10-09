@@ -1,3 +1,7 @@
+<!-- u251009 -->
+
+***
+
 <div align="center">
 
   <picture>
@@ -10,7 +14,7 @@
 
 **Tingen** is a set of interoperable projects designed to work with Netsmart's [Avatar EHR](https://www.ntst.com/offerings/myavatar).
 
-Current projects include:
+***
 
 <div align="center">
 
