@@ -16,7 +16,7 @@
 
 ***
 
-<div align="center">
+<br/>
 
   <a href="https://github.com/spectrum-health-systems/tingen-web-service">
     <picture>
